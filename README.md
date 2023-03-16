@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="65"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&pause=1000&color=E61DF7&width=435&lines=%22Be+the+man+who+at+birth+everyone+laughing+happily%2C+but+only+you+yourself+were+crying+and+the+death+of+all+the+sad+cry%2C+but+only+you+yourself+smiling.%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&pause=1000&color=E61DF7&multiline=true&width=435&lines=%22Be+the+man+who+at+birth+everyone+;laughing+happily%2C+but+only+you+;yourself+were+crying+and+the+death+;of+all+the+sad+cry%2C+but+only+you+yourself+smiling.%22" alt="Typing SVG" /></a>
 </p>
 
 <!--
