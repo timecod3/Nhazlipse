@@ -2,8 +2,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=200&duration=2500&pause=1000&color=E61DF7&center=true&vCenter=true&width=500&height=71&lines=u+know+Kontolodon+%3F" alt="Typing SVG" /></a>
 
-<!--
-**nyumat/nyumat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Nhazlipse/Nhazlipse**
 
 Here are some ideas to get you started:
 
@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about who am i ...
 - ⚡ Fun fact: I Hate Vegetables ...
--->
 
 <br>
 
