@@ -5,9 +5,10 @@
 <p align="center">
   <b>xNas?</b>
   </p>
-
+<br>
 
 <h2 align="center">💻 &nbsp; Languages &nbsp; 💻</h2>
+<br>
 <br>
 
 <p align="center">
