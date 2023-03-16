@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center"><b>⚡ &nbsp; Watch my contributions get devoured! &nbsp; ⚡  </b>
-  <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"><img alt="SnakeSVG" src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/github-contribution-grid-snake.svg"/></a>
+  <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"><img alt="SnakeSVG" src="https://github.com/Nhazlipse/Nhazlipse/blob/main/assets/github-contribution-grid-snake.svg"/></a>
 </h2>
    
 
