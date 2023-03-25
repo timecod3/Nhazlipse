@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 11 * * *"
+    - cron: "0 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 * * *" # See https://crontab.guru/#0_7,9,11,17,20_*_*_*
   workflow_dispatch:
 
 jobs:
@@ -11,24 +11,23 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@main
+        uses: actions/checkout@v3
 
       - name: Generate
         uses: Platane/snk@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ Nhazlipse }}
           outputs: |
             ./assets/github-contribution-grid-snake.gif
             ./assets/github-contribution-grid-snake.svg
       
       - name: Commit
         run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add .
-          git commit -m "Generate snake"
+          git config --local user.email "nhazlipse@gmail.com"
+          git config --local user.name "nhazlipse"
+          git commit -a -m "Kontolodon"
       
       - name: Push
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
